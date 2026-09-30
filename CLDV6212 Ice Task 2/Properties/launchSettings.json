@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CLDV6212_Ice_Task_2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7235",
+      "launchBrowser": false
+    }
+  }
+}
