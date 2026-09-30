@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\riley\\Downloads\\cldv6212-g1-2026-ICETask2-ST10486933-main\\cldv6212-g1-2026-ICETask2-ST10486933-main\\CLDV6212 Ice Task 2\\",
+  "WorkspaceRootPath": "C:\\Users\\riley\\Downloads\\cldv6212-g1-2026-Ice-Task-2-ST10486933\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8962B400-413E-1E49-8E97-902F95EBE55C}|CLDV6212 Ice Task 2\\CLDV6212 Ice Task 2.csproj|c:\\users\\riley\\downloads\\cldv6212-g1-2026-icetask2-st10486933-main\\cldv6212-g1-2026-icetask2-st10486933-main\\cldv6212 ice task 2\\cldv6212 ice task 2\\messagefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8962B400-413E-1E49-8E97-902F95EBE55C}|CLDV6212 Ice Task 2\\CLDV6212 Ice Task 2.csproj|c:\\users\\riley\\downloads\\cldv6212-g1-2026-ice-task-2-st10486933\\cldv6212 ice task 2\\messagefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8962B400-413E-1E49-8E97-902F95EBE55C}|CLDV6212 Ice Task 2\\CLDV6212 Ice Task 2.csproj|solutionrelative:cldv6212 ice task 2\\messagefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MessageFunctions.cs",
-              "DocumentMoniker": "C:\\Users\\riley\\Downloads\\cldv6212-g1-2026-ICETask2-ST10486933-main\\cldv6212-g1-2026-ICETask2-ST10486933-main\\CLDV6212 Ice Task 2\\CLDV6212 Ice Task 2\\MessageFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\riley\\Downloads\\cldv6212-g1-2026-Ice-Task-2-ST10486933\\CLDV6212 Ice Task 2\\MessageFunctions.cs",
               "RelativeDocumentMoniker": "CLDV6212 Ice Task 2\\MessageFunctions.cs",
-              "ToolTip": "C:\\Users\\riley\\Downloads\\cldv6212-g1-2026-ICETask2-ST10486933-main\\cldv6212-g1-2026-ICETask2-ST10486933-main\\CLDV6212 Ice Task 2\\CLDV6212 Ice Task 2\\MessageFunctions.cs",
+              "ToolTip": "C:\\Users\\riley\\Downloads\\cldv6212-g1-2026-Ice-Task-2-ST10486933\\CLDV6212 Ice Task 2\\MessageFunctions.cs",
               "RelativeToolTip": "CLDV6212 Ice Task 2\\MessageFunctions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T15:19:42.435Z",
               "EditorCaption": ""
